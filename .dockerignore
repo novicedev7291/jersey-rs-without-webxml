@@ -1,0 +1,8 @@
+.idea
+src
+target/**
+!target/*.war
+Dockerfile
+*.iml
+*.xml
+.gitignore
